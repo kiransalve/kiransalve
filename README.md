@@ -7,8 +7,7 @@ Hi 👋 I'm Kiran Salve
 - 📫 How to reach me: salvekiran2011@gmail.com
 - 🤝 I'm open to collaborating on new and exciting projects in web dev domain.
 - ⚡ Interests: Beside the Web Developement I love Travelling.
-- 📝 My Resume website - https://kiran-salve-resume.netlify.app/
-- ✌️ YouTube - https://youtube.com/@kiransalve9125?si=a8Bef9SFyBbfwply
+
 
 ### Skills
 
