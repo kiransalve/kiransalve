@@ -2,13 +2,12 @@ Hi 👋 I'm Kiran Salve
 ===============================
 
 
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently learning Front End Developement - React Js
 - 🌍 I'm based in Kalyan, India
 - 📫 How to reach me: salvekiran2011@gmail.com
-- 🤝 I'm open to collaborating on new and exciting projects in web dev domain.
+- 🤝 My Resume - https://kiran-salve-resume.netlify.app/
 - ⚡ Interests: Beside the Web Developement I love to read and listen self help books.
-
-
+  
 ### Skills
 
 <p align="left">
