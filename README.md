@@ -22,7 +22,6 @@ Hi 👋 I'm Kiran Salve
 
 <p align="left"> 
    <a href="https://www.linkedin.com/in/kiran-salve-656995188" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 
 ### My GitHub Stats
