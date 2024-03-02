@@ -1,10 +1,6 @@
 Hi 👋 I'm Kiran Salve
 ===============================
-<p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 
 - 🌱 I’m currently learning Front End Developement - React Js
 - 🌍 I'm based in Kalyan, India
@@ -25,7 +21,7 @@ Hi 👋 I'm Kiran Salve
 ### Socials
 
 <p align="left"> 
-  <a href="https://twitter.com/kiransalve15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/kiransalve15" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width="32" height="32" /></a>
    <a href="https://www.linkedin.com/in/kiran-salve-656995188" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   
 </p>
 
