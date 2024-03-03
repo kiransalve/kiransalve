@@ -10,9 +10,9 @@ Hi 👋 I'm Kiran Salve
 ===============================
 ### Projects
 
-Tour Booking App - https://lets-go-xi.vercel.app/
-Ecommerce Web App - https://estoreapp-kiransalve.netlify.app/
-Youtube Clone - https://yt-clone-kiransalve.netlify.app/
+Tour Booking App - https://lets-go-xi.vercel.app/ <br />
+Ecommerce Web App - https://estoreapp-kiransalve.netlify.app/ <br />
+Youtube Clone - https://yt-clone-kiransalve.netlify.app/ <br />
 
 
 ### Skills
