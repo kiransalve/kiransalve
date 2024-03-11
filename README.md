@@ -4,7 +4,6 @@ Hi 👋 I'm Kiran Salve
 - 🌱 I’m currently learning Front End Developement - React Js
 - 🌍 I'm based in Kalyan, India
 - 📫 How to reach me: salvekiran2011@gmail.com
-- 🤝 My Resume - https://kiran-salve-resume.netlify.app/
 - ⚡ Interests: Beside the Web Developement I love to read and listen self help books.
 
 ===============================
