@@ -4,7 +4,7 @@ Hi 👋 I'm Kiran Salve
 - 🌱 I’m front end developer.
 - 🌍 I'm based in Mumbai, India
 - 📫 How to reach me: salvekiran2011@gmail.com
-- ⚡ Interests: I love to read self help books and Gardening.
+- ⚡ Interests: I love to watching animes, playing cricket and Gardening.
 
 ===============================
 ### Web Dev Projects
