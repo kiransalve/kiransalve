@@ -10,7 +10,7 @@ Hi 👋 I'm Kiran Salve
 ### Web Dev Projects
 
 Tour Booking App - https://lets-go-xi.vercel.app/ <br />
-Ecommerce Web App - https://estoreapp-kiransalve.netlify.app/ <br />
+Ecommerce Web App - https://kiran-salve-resume.vercel.app/ <br />
 Youtube Clone - https://yt-clone-kiransalve.netlify.app/ <br />
 
 
