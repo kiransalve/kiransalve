@@ -1,7 +1,7 @@
 Hi 👋 I'm Kiran Salve
 ===============================
 
-- 🌱 I’m Data Analyst.
+- 🌱 I’m Web developer
 - 🌍 I'm based in Mumbai, India
 - 📫 How to reach me: salvekiran44@gmail.com
 - ⚡ Interests: I love to watching animes, playing cricket and Gardening.
