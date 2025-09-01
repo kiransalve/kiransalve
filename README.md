@@ -4,7 +4,7 @@ Hi 👋 I'm Kiran Salve
 - 🌱 I’m Aspiring Data Scientist
 - 🌍 I'm based in Mumbai, India
 - 📫 How to reach me: salvekiran44@gmail.com
-- ⚡ Interests: I love to watching animes, jungle adventures and Gardening.
+- ⚡ Interests: I love to watching animes, adventures/traveling and Gardening.
 
 ===============================
 ### Portfolio 
